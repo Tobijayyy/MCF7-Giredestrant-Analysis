@@ -1,5 +1,5 @@
 # Study: Transcriptome modulation by long duration giredestrant treatment and the effect of GPX4 CRISPR KO in MCF7 cells
-# Contributors: Metcalfe C, Guan J, Hafner M, Vijay J
+# Research Credits: Metcalfe C, Guan J, Hafner M, Vijay J
 
 # Unzipping The Raw Count File With Bash
 
